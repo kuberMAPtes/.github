@@ -23,3 +23,9 @@ Node.js 기반 채팅 서버
 - 최현준 ([Hyeonjun0527](https://github.com/Hyeonjun0527))
 - 조성진 ([SEONG JIN JO](https://github.com/z-ral-dog))
 - 박경도 ([PGD](https://github.com/rudeh1253))
+
+## 프로젝트 발표 PPT
+[noon_project_ppt.pptx](results/noon_project_ppt.pptx)
+
+## 프로젝트 보고서
+[project_report.pdf](results/project_report.pdf)
