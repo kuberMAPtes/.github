@@ -29,3 +29,6 @@ Node.js 기반 채팅 서버
 
 ## 프로젝트 보고서
 [project_report.pdf](results/project_report.pdf)
+
+## 프로젝트 영상
+https://youtu.be/IK90MzZ1sOw
